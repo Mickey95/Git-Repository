@@ -16,7 +16,7 @@ namespace GitTut
             Console.WriteLine();
             Console.Write("Enter your Surname:");
             string surname = Console.ReadLine();
-            Console.WriteLine();
+            Console.WriteLine();Mickey
             Console.WriteLine("Thank you {0} {1} and enjoy using this CVS",name,surname);
 
             //The Edit to the file---------------
